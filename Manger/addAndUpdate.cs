@@ -21,7 +21,6 @@ namespace Manger
             txtDevuceID.Text = deviceID;
             
             TXTMn.Text = Mn;
-           
             dateTimePicker1.Text = begin;
             dateTimePicker2.Text = end;
             txtProjectName.Text = projectname;
