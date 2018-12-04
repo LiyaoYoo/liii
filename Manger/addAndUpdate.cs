@@ -24,7 +24,7 @@ namespace Manger
            
             dateTimePicker1.Text = begin;
             dateTimePicker2.Text = end;
-            txtProjectName.Text = projectname;hv
+            txtProjectName.Text = projectname;
             comboBox1.Text = isonline;
         }
         const String serverConnectionString = "Data Source = 101.200.45.217; Initial Catalog = dustmonitor_sh; Persist Security Info=True;User ID = root; Password=c9ra@86hhd; characterset=utf8;sslmode=none";
